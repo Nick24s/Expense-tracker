@@ -59,4 +59,3 @@ const Card = ({ cardType }) => {
 export default Card;
 
 
-//2:10
