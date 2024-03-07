@@ -18,6 +18,9 @@ Cron Jobs: ⏰ Includes a cron job setup for scheduled tasks, showcasing the app
 Live Demo:
 The project is now live on Render.com! You can access the application here: https://expense-tracker-a6sy.onrender.com
 
+![Screenshot 2024-03-07 155240](https://github.com/Nick24s/Expense-tracker/assets/83766076/f2baa0ed-fd9a-4f6e-baad-356ed390aa8d)
+
+
 Getting Started:
 Clone the repository: git clone https://github.com/YourUsername/Expense-graphQL.git
 
